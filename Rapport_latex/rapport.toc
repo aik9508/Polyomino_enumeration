@@ -1,0 +1,28 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Enum\IeC {\'e}ration des polyominoes}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Algorithme Na\IeC {\"\i }f}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Fixed Polyominoes}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Free Polyominoes}{5}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Algorithme de Redelmeier}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Dessination de Polyomino}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Comparaison}{9}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Vitesse de l'\IeC {\'e}num\IeC {\'e}ration}{9}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Efficacit\IeC {\'e} au m\IeC {\'e}moire}{10}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Facilit\IeC {\'e} aux questions suivantes}{11}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Couverture Exacte}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Question 4}{12}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Impl\IeC {\'e}mentation de l'algorithme}{12}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}R\IeC {\'e}sultats}{13}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Question 5 $\&$ 6}{13}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Impl\IeC {\'e}mentation de l'algorithme}{13}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}R\IeC {\'e}sultats}{13}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Question 7}{15}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Transformer un probl\IeC {\`e}me de carrelage en un probl\IeC {\`e}me de la couverture exacte }{15}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}N'utiliser chaque polyomino qu'une fois}{16}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Question 8}{17}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Quand $P$ n'est pas un rectangle}{17}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}R\IeC {\'e}ponses aux questions}{17}{subsubsection.3.4.2}
+\contentsline {subsection}{\numberline {3.5}Question 10}{18}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Question 11}{18}{subsection.3.6}
+\contentsline {section}{\numberline {4}Conclusion}{20}{section.4}
